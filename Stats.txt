@@ -1,0 +1,8 @@
+CPU Usage: 29.43
+CPU Model: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+Number of Cores: 8
+Total Memory: 16221.87
+Memory Usage: 6869.13
+Script Memory Usage: 22.962
+Free Memory: undefined
+Uptime: 0:1:17

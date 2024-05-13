@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.3",
+    "express": "^4.17.3",
+    "node-os-utils": "^1.3.6",
+    "odb.json": "^2.1.4"
+  }
+}
